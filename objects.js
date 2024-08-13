@@ -48,3 +48,4 @@ console.log(Object.keys(person).length)
 console.log(Object.entries(person))
 console.log(Object.values(person))
 console.log(person.hasOwnProperty('age'))
+
